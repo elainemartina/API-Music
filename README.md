@@ -1,2 +1,2 @@
 # API-Music
-API de Música utilizando Entity Framework
+Esta é uma API de música desenvolvida usando C#, ASP.NET e Entity Framework. 
